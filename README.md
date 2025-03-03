@@ -20,6 +20,17 @@ were too late and would immediately eliminated them, I tried using theading but 
 I created a custom command where when the user types in "py officialgame.py --cheatmode" it would enter into a cheatmode and show the answers for everyone which took me abit of time but in the end I managed to do it.
 Overral this project has helped me alot as I was able to learn alot more and I will continue making more.</p>
 
+<h2>How to use</h2>
+<p>The game will ask how many players, based on how many you input it will ask for the names, after you have set the names it will start automatically,
+the count starts from 1 and if the number is divisible by 3 you type in "fizz" if its divisible by 5 you type in "buzz", if its divisible by both you
+type in "fizzbuzz" and if its not divisible by any of them then you just type in the answer. However, each question has a time limit of 5 seconds and 
+if you take longer then it will eliminated you from the game.</p>
+<h3>Example</h3>
+<p>"the count is 1" - Type in 1</p>
+<p>"the count is 3" - Type in "fizz"</p>
+<p>"the count is 5" - Type in "buzz"</p>
+<p>"the count is 15" - Type in "fizzbuzz"</p>
+
 <h2>command list</h2>
 <p>"--cheatmode" type "py officialgame.py --cheatmode"</p>
 
