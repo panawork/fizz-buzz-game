@@ -31,8 +31,9 @@ if you take longer then it will eliminated you from the game.</p>
 <p>"the count is 5" - Type in "buzz"</p>
 <p>"the count is 15" - Type in "fizzbuzz"</p>
 
-<h2>command list</h2>
-``` --cheatmode
+Commands are:
+```
+--cheatmode
 ```
 <h3>Example</h3>
 <p>"py officialgame.py --cheatmode"</p>
