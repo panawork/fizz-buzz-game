@@ -41,5 +41,14 @@ py.officialgame.py --cheatmode
 ```
 
 <h2>Installation requirements</h2>
-<p>pip install pyfiglet</p>
-<p>pip install colorama</p>
+<p>Pyfiglet</p>
+<p>Colorama</p>
+
+Pyfiglet:
+```
+pip install pyfiglet
+```
+Colorama:
+```
+pip install colorama
+```
