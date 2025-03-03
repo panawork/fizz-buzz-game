@@ -35,8 +35,10 @@ Commands are:
 ```
 --cheatmode
 ```
-<h3>Example</h3>
-<p>"py officialgame.py --cheatmode"</p>
+Example
+```
+py.officialgame.py --cheatmode
+```
 
 <h2>Installation requirements</h2>
 <p>pip install pyfiglet</p>
