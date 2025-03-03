@@ -160,7 +160,7 @@ else:
 # starts automatically when file is played 
 if __name__ == "__main__":
     start_game = FizzBuzz()
-    #start_game.introduction()
+    start_game.introduction()
     start_game.adding_players()
     start_game.cheatmodeEnabled=cheatmodeEnabled
     start_game.playGame()
