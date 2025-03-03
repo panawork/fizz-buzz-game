@@ -2,7 +2,7 @@
 FizzBuzz game 
 
 <h2>Summary</h2>
-<p>Overral this project took about 27 hours in total as I started on the 17th Februrary and everyday I would work on it for about 1-3 hours,
+<p>Overral this project took about 35 hours in total as I started on the 17th Februrary and everyday I would work on it for about 1-3 hours,
 at first I created the first archive to try it with only 2 players, it took a bit of time as I had to research how the players turns could switch each time
 and then I was able to use 2 while loops since it was only 2 players, furthermore, I created a 2nd archive to try and adapt this code into more players, specifically
 how many players the user wanted, this one took 3 hours or more because I had to use a list and try and understand how to add a player depending on the amount the user wants,
